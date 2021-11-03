@@ -130,3 +130,6 @@ dmypy.json
 
 # weights
 /app/yolo/*.weights
+
+# detection images
+/app/images/*
